@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/Chanondevs/Chanondevs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&title_color=BA792A&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&layout=compact)](https://github.com/Chanondevs/RTCResume/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Chanondevs&repo=RTCResume)](https://github.com/Chanondevs/RTCResume/)
