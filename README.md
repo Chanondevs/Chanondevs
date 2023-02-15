@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 ## &#x1f4c8;Chanondevs GitHub Stats
 
-<a href="https://github.com/Chanondevs/Chanondevs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Chanondevs&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Chanondevs GitHub Stats" />
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chanondevs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <a href="https://github.com/Chanondevs/Chanondevs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&layout=compact&title_color=BA792A&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
