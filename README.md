@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 ## &#x1f4c8;Chanondevs GitHub Stats
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chanondevs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Chanondevs&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/Chanondevs)
 
-<a href="https://github.com/Chanondevs/Chanondevs">
+<a href="https://github.com/Chanondevs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&layout=compact&title_color=BA792A&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/prameKittikorn" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<a href="https://github.com/Chanondevs" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chanondevs&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
 ## 💻 Tech Stack:
